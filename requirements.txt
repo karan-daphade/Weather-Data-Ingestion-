@@ -1,0 +1,17 @@
+# Core API & HTTP client
+openmeteo-requests>=1.2.0
+requests-cache>=1.2.0
+retry-requests>=2.0.0
+requests>=2.31.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Database & ORM
+SQLAlchemy>=2.0.0
+psycopg2-binary>=2.9.0
+
+# Configuration
+python-dotenv>=1.0.0
+
